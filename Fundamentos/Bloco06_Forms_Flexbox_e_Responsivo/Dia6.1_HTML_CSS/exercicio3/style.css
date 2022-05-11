@@ -1,0 +1,9 @@
+.botao-submit {
+    width: 70px;
+    height: 40px;
+    border-radius: 4%;
+}
+
+.hidden {
+    display: none;
+}
