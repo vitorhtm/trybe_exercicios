@@ -1,0 +1,15 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  background-color: wheat;
+  margin: 5px;
+  width: 50%;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.blocoCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
