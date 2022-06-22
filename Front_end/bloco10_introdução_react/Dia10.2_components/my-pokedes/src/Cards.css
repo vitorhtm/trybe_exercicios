@@ -1,0 +1,59 @@
+.cardPk {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 180px;
+  background-color: darkgrey;
+  border: 1px solid black;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.cardPk:hover {
+  background-color: yellowgreen;
+  box-shadow: yellowgreen 0px 0px 40px 10px;
+}
+
+.cardInternoPk {
+  background-color: lightpink;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid black;
+  margin: 5px;
+  border-radius: 5px;
+  width: 200px;
+  height: auto;
+}
+
+.containerCards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  flex-wrap: wrap;
+}
+
+.names {
+  margin-top: 5px;
+}
+
+.inputType {
+  text-align: center;
+  margin: 5px;
+}
+
+.inputType:hover {
+  box-shadow: yellowgreen 0px 0px 40px 5px;
+}
+
+.containerInput {
+  display: flex;
+  padding-bottom: 10px;
+}
+
+.tittle:hover {
+  color: yellowgreen;
+}
